@@ -1,7 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
 
-##NAME: ABIRAMI.A 
-##REG NO: 212224040010
+NAME: ABIRAMI.A 
+
+REG NO: 212224040010
 
 ## Aim: 
 To perform a study on Socket Programming
